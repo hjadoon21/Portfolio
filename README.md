@@ -1,7 +1,7 @@
 # Hashmat Jadoon - Portfolio
 
 ## About Me
-Final-year Information Technology student at York University with experience in data analytics, machine learning, and systems analysis.
+Final-year Information Technology student at York University with experience in data analytics, software engineering, networked systems, and similar emerging technologies.
 
 ## Projects
 - Mushroom Classification System (Python, Machine Learning, Streamlit): https://github.com/hjadoon21/Mushroom-Classification/tree/main
